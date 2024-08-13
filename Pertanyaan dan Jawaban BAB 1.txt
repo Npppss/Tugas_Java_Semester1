@@ -1,0 +1,46 @@
+Pertanyaan dan Jawaban Minggu 1
+Bab 1 = 
+1. Jelaskan apa itu Jre ? Apa kegunaannya!
+2. Jelaskan apa itu JDK?
+3. Jelaskan apa itu Java Virtual Machine? 
+4. Jelaskan tahap membuat projek aplikasi baru dan class baru di netbeans!
+5. Berdasarkan jenis , aplikasi apa saja yang dapat dibuat dengan menggunakan 
+pemrograman Java?
+6. Berdasarkan platform , platform apa saja pada Java?
+
+Jawab:
+1. Java Run-time Environment (JRE) adalah bagian dari Java Development 
+Kit (JDK), lingkungan paling umum yang tersedia di perangkat untuk menjalankan program java. Untuk Menjalankan Bytecode
+2. Java Development Kit (JDK) adalah kit pengembangan java lengkap yang mencakup JRE (Java Runtime Environment), kompiler dan 
+berbagai alat seperti JavaDoc, Java debugger dll
+3. Java Virtual machine (JVM) adalah mesin virtual yang berjalan pada komputer /laptop dan mengeksekusi byte code
+4. 
+5.Aplikasi Desktop seperti acrobat reader, media player, antivirus, dll.
+ Aplikasi Web seperti irctc.co.in, javatpoint.com, dll.
+ Aplikasi untuk Perusahaan seperti aplikasi perbankan.
+ Aplikasi Mobile
+ Embedded System
+ Smart Card
+ Robotika
+ Game , dll
+6. Java SE (Java Standard Edition)
+Platform ini adalah platrom inti pemrograman Java. termasuk 
+pemrograman API Java seperti java.lang, java.io, java.net, java.util, java.sql, 
+java.math dll. termasuk topik inti seperti OOP, String, Regex, Exception, 
+Class , Multithreading, I/O Stream, Jaringan, AWT, Swing dll
+
+  Java EE (Edisi Java Enterprise)
+Platform Ini adalah platform enterprise terutama digunakan untuk 
+mengembangkan aplikasi berbasis web dan Aplikasi Enterprise . dibangun 
+di atas platform Java SE. mencakup topik seperti Servlet, JSP, Web 
+Service, EJB, JPA, dll
+
+  Java ME (Java Micro Edition)
+Platform ini adalah platform micro yang didedikasikan untuk aplikasi 
+berbasis mobile seperti android.
+
+  JavaFX
+Platform ini adalah open source untuk aplikasi desktop, mobil , dan 
+embedded system yang dibangun di atas Java. platform ini adalah upaya 
+kolaboratif oleh banyak individu dan perusahaan dengan tujuan 
+menghasilkan toolkit yang modern, efisien, dan berfitur lengkap 
